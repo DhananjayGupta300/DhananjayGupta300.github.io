@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            PAST ECSTASIES
 locale:           en_US
 url:
 
@@ -40,9 +40,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Dhananjay Gupta
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Seeker."
   email:
   disqus-shortname:
   twitter: #username
