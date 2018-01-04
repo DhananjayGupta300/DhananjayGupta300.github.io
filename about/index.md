@@ -10,5 +10,5 @@ image:
   creditlink: 
 ---
 
-I’m Dhananjay Gupta, Graduate student from the Department of Computer Science, University of Illinois at Chicago. I’m humbled that you consider my introduction worthy of your valuable time.
+I am Dhananjay Gupta, Graduate student from the Department of Computer Science, University of Illinois at Chicago. I am humbled that you consider my introduction worthy of your valuable time.
 
