@@ -3,15 +3,12 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /posts/
-
 - title: Academics
   url: /academics/
   
-- title: Categories
-  url: /posts/category-wise.html
-
+- title: Blog
+  url: /posts/
+  
 - title: Projects
   url: /projects/
 
