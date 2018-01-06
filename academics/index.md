@@ -2,7 +2,7 @@
 layout: page
 title: "Academics"
 modified: 2018-01-05
-excerpt: "Dhananjay Gupta, Master's Student, CSE, University of Illinois at Chicago"
+excerpt: "Dhananjay Gupta, Master's Student, CS, University of Illinois at Chicago"
 tags: ["academics", "graduation", "UIC", "computer"]
 comments: true
 ---
@@ -37,7 +37,8 @@ Major Courses
 - Distributed Systems
 - Advance Software Engineering
 - Object Oriented Languages and Environments
-- Software Development Using Mobile Plateforms<br/><br/>***Bachlor's***
+- Software Development Using Mobile Plateforms
+<br/><br/>***Bachlor's***
 - Operating Systems
 - Computer Networks
 - Computer Organization
