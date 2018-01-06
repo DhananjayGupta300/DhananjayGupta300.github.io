@@ -40,6 +40,7 @@ Major Courses
 - Advance Software Engineering
 - Object Oriented Languages and Environments
 - Software Development Using Mobile Plateforms
+
 ***Bachlor's:***
 - Operating Systems
 - Computer Networks
