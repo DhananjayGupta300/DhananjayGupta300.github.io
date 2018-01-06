@@ -10,10 +10,10 @@ projects:
       about: "Extended data sensitive hashing with multiprobing and entropy mechanisms of locality sensitive hashing; and analysed relative performances of the different algorithms."
 
     - title: "Flipbook"
-      image: "/images/flipbook.png"
-      link: "http://srijanshetty.in/flipbook-homepage"
-      github: "http://github.com/srijanshetty/flipbook-homepage"
-      website: "http://srijanshetty.in/flipbook-homepage"
+      image: ""
+      link: ""
+      github: ""
+      website: ""
       about: "Got my hands dirty with HTML, CSS and JS for the first time."
 
 ---
