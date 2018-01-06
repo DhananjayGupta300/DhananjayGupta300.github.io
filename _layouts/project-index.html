@@ -1,0 +1,164 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="post-index">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div class="article-author-side">
+  {% include _author-bio.html %}
+</div>
+
+<div id="index">
+  <table>
+    {% for post in page.projects %}
+
+    <tr class="project">
+      <td class="project-image">
+        {% if post.image %}
+          <a href="{{ post.link }}" title="{{ post.title }}">
+            <img src="{{ site.url }}{{post.image}}"/>
+          </a>
+        {% endif %}
+      </td>
+
+      <td class="project-content">
+        <div>
+
+          <h6 class="project-title">{{ post.title }}</h6>
+
+          <div class="project-text">{{ post.about | truncate: 180 }}</div>
+
+          {% if post.github %}
+          <span class="project-link">
+            <a href="{{ post.github }}" title="{{ post.title }}">
+              <i class="fa fa-github fa-2x"></i>
+            </a>
+          </span>
+          {% endif %}
+
+          {% if post.website %}
+          <span class="project-link">
+            <a href="{{ post.website }}" title="{{ post.title }}">
+              <i class="fa fa-html5 fa-2x"></i>
+            </a>
+          </span>
+          {% endif %}
+
+          {% if post.pdf %}
+          <span class="project-link">
+            <a href="{{ post.pdf }}" title="{{ post.title }}">
+              <i class="fa fa-file-pdf-o fa-2x"></i>
+            </a>
+          </span>
+          {% endif %}
+
+          {% if post.wiki %}
+          <span class="project-link">
+            <a href="{{ post.wiki }}" title="{{ post.title }}">
+              <i class="fa fa-file-word-o fa-2x"></i>
+            </a>
+          </span>
+          {% endif %}
+
+        </div>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <!-- {% for post in page.projects %} -->
+  <!--  -->
+  <!--   <article class="project"> -->
+  <!--     <h3 class="project&#45;title">{{ post.title }}</h3> -->
+  <!--  -->
+  <!--     <div class="project&#45;content&#45;container"> -->
+  <!--       {% if post.image %} -->
+  <!--       <a class="project&#45;image" href="{{ post.link }}" title="{{ post.title }}"> -->
+  <!--         <img src="{{ site.url }}{{post.image}}"/> -->
+  <!--       </a> -->
+  <!--       {% endif %} -->
+  <!--  -->
+  <!--       <div class="project&#45;content"> -->
+  <!--  -->
+  <!--         {% if post.github %} -->
+  <!--         <span class="project&#45;link"> -->
+  <!--           <a href="{{ post.github }}" title="{{ post.title }}"> -->
+  <!--             <i class="fa fa&#45;github fa&#45;2x"></i> -->
+  <!--           </a> -->
+  <!--         </span> -->
+  <!--         {% endif %} -->
+  <!--  -->
+  <!--         {% if post.website %} -->
+  <!--         <span class="project&#45;link"> -->
+  <!--           <a href="{{ post.website }}" title="{{ post.title }}"> -->
+  <!--             <i class="fa fa&#45;html5 fa&#45;2x"></i> -->
+  <!--           </a> -->
+  <!--         </span> -->
+  <!--         {% endif %} -->
+  <!--  -->
+  <!--         {% if post.pdf %} -->
+  <!--         <span class="project&#45;link"> -->
+  <!--           <a href="{{ post.pdf }}" title="{{ post.title }}"> -->
+  <!--             <i class="fa fa&#45;file&#45;pdf&#45;o fa&#45;2x"></i> -->
+  <!--           </a> -->
+  <!--         </span> -->
+  <!--         {% endif %} -->
+  <!--  -->
+  <!--         {% if post.wiki %} -->
+  <!--         <span class="project&#45;link"> -->
+  <!--           <a href="{{ post.wiki }}" title="{{ post.title }}"> -->
+  <!--             <i class="fa fa&#45;file&#45;word&#45;o fa&#45;2x"></i> -->
+  <!--           </a> -->
+  <!--         </span> -->
+  <!--         {% endif %} -->
+  <!--  -->
+  <!--         {% if post.link %} -->
+  <!--         <span class="project&#45;link"> -->
+  <!--           <a href="{{ post.link }}" title="{{ post.title }}"> -->
+  <!--             <i class="fa fa&#45;link fa&#45;2x"></i> -->
+  <!--           </a> -->
+  <!--         </span> -->
+  <!--         {% endif %} -->
+  <!--  -->
+  <!--         <p>{{ post.about | truncate: 180 }}</p> -->
+  <!--       </div> -->
+  <!--     </div> -->
+  <!--   </article> -->
+  <!-- {% endfor %} -->
+
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>
