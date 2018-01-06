@@ -31,7 +31,7 @@ Major Courses
 -------------
 
 **Computer Science:**
-***Master's***
+<br/><br/>***Master's***
 - Computer Algorithms 1
 - Database Systems
 - Distributed Systems
