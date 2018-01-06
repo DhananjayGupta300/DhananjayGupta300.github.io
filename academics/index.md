@@ -31,20 +31,20 @@ Major Courses
 -------------
 
 **Computer Science:**
-
+***Master's***
 - Computer Algorithms 1
 - Database Systems
 - Distributed Systems
 - Advance Software Engineering
 - Object Oriented Languages and Environments
-- Software Development Using Mobile Plateforms
+- Software Development Using Mobile Plateforms<br/><br/>***Bachlor's***
 - Operating Systems
 - Computer Networks
 - Computer Organization
 - Data Structures and Algorithms
 - Design and Analysis of Algorithms
 - Artificial Intelligence
-- Cloud Computing
+- Cloud Computing 
 
 **Mathematics:**
 
