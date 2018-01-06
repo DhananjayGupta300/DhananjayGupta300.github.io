@@ -30,7 +30,7 @@ Academic Background
 Major Courses
 -------------
 
-**Computer Science:**
+**Computer Science:**<br/>
 ***Master's***
 - Computer Algorithms 1
 - Database Systems
