@@ -30,15 +30,14 @@ Academic Background
 Major Courses
 -------------
 
-**Computer Science:**<br/>
-***Master's***
+**Computer Science:**
+
 - Computer Algorithms 1
 - Database Systems
 - Distributed Systems
 - Advance Software Engineering
 - Object Oriented Languages and Environments
 - Software Development Using Mobile Plateforms
-<br/><br/>***Bachlor's***
 - Operating Systems
 - Computer Networks
 - Computer Organization
