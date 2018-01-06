@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About Me
-tags: [academics, Dhananjay,]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: "Academics"
+modified: 2018-01-05
+excerpt: "Dhananjay Gupta, Master's Student, CSE, University of Illinois at Chicago"
+tags: ["academics", "graduation", "UIC", "computer"]
 comments: true
-image:
-  feature: sample-image-1.jpg
-  credit: Dhananjay Gupta, when Fall meets Winter
-  creditlink: 
 ---
 
-I did my Bachelor's from the <a href="http://cse.iitk.ac.in">Department of Computer Science and Engineering</a>, <a href="www.iitk.ac.in">Indian Institute of Technology Kanpur.</a>
+I am doing my Master's in <a href="https://www.cs.uic.edu/">Computer Science</a> at the <a href="https://www.uic.edu/">University of Illinois at Chicago</a>.
+
+I did my Bachelor's from the <a href="http://www.svvv.edu.in/Department/DisplayDeptPage.aspx?page=gaeag&ItemID=eaaim&nInstiID=a&nDeptID=i">Department of Information Technology</a>, <a href="http://www.svits.ac.in/index.php">Shri Vaishnav Institute of Technology and Science, Indore</a>. Affiliated to <a href="https://www.rgpv.ac.in/">Rajiv Gandhi Technical University</a>, bhopal, India.
 
 Academic Background
 -------------------
@@ -34,25 +33,24 @@ Major Courses
 
 **Computer Science:**
 
-- Searching and Indexing in Databases
+- Computer Algorithms 1
 - Database Systems
-- Network and Internet Security
-- Compilers
-- Principles of Programming Languages
+- Distributed Systems
+- Advance Software Engineering
+- Object Oriented Languages and Environments
+- Software Development Using Mobile Plateforms
 - Operating Systems
 - Computer Networks
 - Computer Organization
 - Data Structures and Algorithms
 - Design and Analysis of Algorithms
-- Machine Learning Tools and Techniques
 - Artificial Intelligence
+- Cloud Computing
 
 **Mathematics:**
 
 - Calculus
 - Linear Algebra
 - Abstract Algebra
-- Fundamentals of Logic
 - Discrete Mathematics
 - Probability and Statistics
-- Numerical Method of Approximation
