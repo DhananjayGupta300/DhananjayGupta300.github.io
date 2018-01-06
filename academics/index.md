@@ -13,15 +13,15 @@ I did my Bachelor's from the <a href="http://www.svvv.edu.in/Department/DisplayD
 Academic Background
 -------------------
 
-| Degree                                            | Year              | Performance     |
-|:--------------------------------------------------|:------------------|:----------------|
-| M.S., University of Illinois at Chicago           | May 2019(expected)| GPA  3.67 (4)   |
+| Degree                                            | Year                | Performance     |
+|:--------------------------------------------------|:--------------------|:----------------|
+| M.S., University of Illinois at Chicago           | May 2019(expected)  | GPA  3.67 (4)   |
 |----
-| B.E., Rajiv Gandhi  Technical University, India   | 2017              | CGPA 7.2% (10)  |
+| B.E., Rajiv Gandhi  Technical University, India   | 2017                | CGPA 7.2% (10)  |
 |----
-| Laurels School International, ISC Board           | 2012              | 78.25%          |
+| Laurels School International, ISC Board           | 2012                | 78.25%          |
 |----
-| Laurels School International, ICSC Board          | 2010              | 90.00%          |
+| Laurels School International, ICSE Board          | 2010                | 90.00%          |
 |=====
 |
 {: rules="groups"}
