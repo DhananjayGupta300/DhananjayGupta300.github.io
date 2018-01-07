@@ -6,6 +6,7 @@ excerpt: "Dhananjay Gupta, Master's Student, CS, University of Illinois at Chica
 tags: ["academics", "graduation", "UIC", "computer"]
 comments: true
 ---
+{% include _toc.html %}
 
 I am doing my Master's in <a href="https://www.cs.uic.edu/">Computer Science</a> at the <a href="https://www.uic.edu/">University of Illinois at Chicago</a>. <br/><br/>
 I did my Bachelor's from the <a href="http://www.svvv.edu.in/Department/DisplayDeptPage.aspx?page=gaeag&ItemID=eaaim&nInstiID=a&nDeptID=i">Department of Information Technology</a>, <a href="http://www.svits.ac.in/index.php">Shri Vaishnav Institute of Technology and Science, Indore</a>. Affiliated to <a href="https://www.rgpv.ac.in/">Rajiv Gandhi Technical University</a>, bhopal, India.
