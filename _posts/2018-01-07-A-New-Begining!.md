@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "A Post with Images"
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+title: "A New Beginning!"
+excerpt: "From India to US"
+tags: [dhananjay gupta, new phase, India, USA]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
-
-### Figures (for images or video)
+The date had finally come! all hardwork, preparing for GRE, university applications and unlimited shopping culminates on 2nd August, 2017. I am leaving home to pursue my Master's in Computer Science at the pretigious University of Illinois at Chicago. It had been a roller coaster ride. Ecstatic moments, heartbreaks and sleepless nights; I have seen all. Let me take you through my journey.<br/><br/>  
+### Consious Organic Chaos to  
 
 #### One Up
 
