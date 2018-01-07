@@ -7,7 +7,7 @@ excerpt: "Recommendations I have received"
 
 {% include _toc.html %}
 
-##Academic recommendations
+## Academic recommendations
 
 #### Prof. Priyanka Gupta, professor
 
@@ -30,9 +30,9 @@ excerpt: "Recommendations I have received"
   <figcaption>Recommendations reieved on account my performance in Data Structures, Compiler Design and Automata.</figcaption>
 </figure>
 
-##Work recommendations
+## Work recommendations
 
-####Vibhore Shrivastava, professor
+#### Vibhore Shrivastava, professor
 
 <figure>
   <img src="{{ site.url }}/images/vibs" alt="Letter of Recommendation">
