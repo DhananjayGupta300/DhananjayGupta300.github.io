@@ -6,7 +6,7 @@ projects:
     - title: "Online Shopping Web Application"
       link: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
       github: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
-      image: ""
+      image: "dgupta.us/images/onlineshoppingwebapplication.jpg"
       about: "This is an Online Shopping Web Application"
     
 ---
