@@ -6,8 +6,8 @@ modified: 2018-01-05T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-1.jpg
-  credit: Dhananjay Gupta, when Fall meets Winter.
-  creditlink: 
+  credit: Dhananjay Gupta, serenity.
+  creditlink: //dgupta.us
 ---
 {% include _toc.html %}
 ### About my Professional and Academic Pursuit
