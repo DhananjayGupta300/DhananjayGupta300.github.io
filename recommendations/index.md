@@ -3,10 +3,6 @@ layout: page
 title: "Recommendations Received"
 modified: 2018-01-05
 excerpt: "Recommendations I have received"
-image:
-  feature: 
-  credit: 
-  creditlink:
 ---
 
 {% include _toc.html %}
