@@ -22,8 +22,9 @@ I successfully completed a **summer internship** at VIBS Infosol, Indore, India.
 
 ### About Leadership, Management and Hobbies
 I harbor an inclination towards **music** and have been awarded a certificate with **distinction** from **Trinity College London** for my proficiency in **classical guitar**.<br/><br/>
-I underwent training at the **International Association of Lions Clubs** wherein I successfully completed my training in Lions District Leadership Workshop-2015.<br/><br/>
-I have volunteered for Indian Water Works Association and All World Gayatri Pariwar which is a living model of a futuristic society.<br/><br/> 
+I underwent training at the **International Association of Lions Clubs** wherein I successfully completed my training in Lions District Leadership Workshop-2015. Trained on Change Management, Communication, Conducting Effective Meetings, Mentoring Program,
+Creative Thinking, Focused Discussion, Evaluation.<br/><br/>
+I have volunteered for Indian Water Works Association and All World Gayatri Pariwar which is a living model of a futuristic society. Volunteered in organizing several human wellbeing programs and rural education drive.<br/><br/> 
 
 ### Professional Vission
 At this crucial juncture, I am inclined towards the Master’s program in Computer Science offered at the university of Illinois at Chicago, which is the best platform for any student pursuing a career in this field in terms of the quality of education, research facilities and world-class faculty. In an atmoshphere like which boasts of a confluence of people from every culture, nationality, religion and ideology, I am confident of reflecting strong ethical values, inclusiveness and developing my personality for the better. I am optimistic that my education will equip me with the best set of skills and expertise to scale great heights professionally. After completion of the program, I aspire to work as a software engineer and later use the work experience to contribute towards society.
