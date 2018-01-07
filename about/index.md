@@ -9,6 +9,7 @@ image:
   credit: Dhananjay Gupta, when Fall meets Winter.
   creditlink: 
 ---
+{% include _toc.html %}
 
 I'm Dhananjay Gupta, Graduate student from the Department of Computer Science, University of Illinois at Chicago. I'm humbled that you consider my introduction worthy of your valuable time. <br/><br/>
 I like to code and play guitar. I see myself as a seeker, eager to know anything and everything. I have a passion for solving puzzles and like to have nerdy talks.<br/><br/>
