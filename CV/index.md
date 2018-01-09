@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Behold my CV"
+title: "Behold my CV!"
 modified: 2018-01-05
 excerpt: "CV"
 ---
 
-### Behold my CV!
+### Behold my CV
 
 
 
