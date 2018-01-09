@@ -18,7 +18,7 @@ Academic Background
 |:--------------------------------------------------|:--------------------|:----------------|
 | M.S., University of Illinois at Chicago           | May 2019(expected)  | GPA  3.67 (4)   |
 |----
-| B.E., Rajiv Gandhi  Technical University, India   | 2017                | CGPA 7.2% (10)  |
+| B.E., Rajiv Gandhi  Technical University, India   | 2017                | CGPA 7.2 (10)   |
 |----
 | Laurels School International, ISC Board           | 2012                | 78.25%          |
 |----
