@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A New Beginning!"
-excerpt: "Consious organic chaos! to a World of order."
+excerpt: "Conscious organic chaos! to a World of order."
 tags: [dhananjay gupta, new phase, India, USA]
 comments: true
 ---
