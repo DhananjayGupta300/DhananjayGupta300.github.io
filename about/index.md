@@ -11,7 +11,7 @@ image:
 ---
 {% include _toc.html %}
 I'm Dhananjay Gupta, Master's student from the <a href="https://www.cs.uic.edu/">Department of Computer
-Science</a>,<a href="https://www.uic.edu/">University of Illinois at Chicago</a>. I'm humbled
+Science</a>,<a href="https://www.uic.edu/"> University of Illinois at Chicago</a>. I'm humbled
 that you consider my introduction worthy of your valuable time.<br/><br/>
 ### Professional and Academic Pursuit
 The rapid boom in computer science which offers a surfeit of exciting job opportunities, has thrusted my decision on embarking a career path in this thriving sector. A fascination with computers coupled with their capability to solve difficult problems in an optimum manner, propelled my interest towards improving my knowledge set and skills in the same direction. Problem solving, mathematical puzzles and devising new algorithms is where my strength lies. Thus, pursuing my Master's in Computer Science was an easy decision. <br><br/>
