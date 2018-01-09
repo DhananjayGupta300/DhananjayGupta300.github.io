@@ -38,7 +38,7 @@ Major Courses
 - Distributed Systems
 - Advance Software Engineering
 - Object Oriented Languages and Environments
-- Software Development Using Mobile Plateforms
+- Software Development Using Mobile Platforms
 - Operating Systems
 - Computer Networks
 - Computer Organization
