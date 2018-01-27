@@ -41,7 +41,7 @@ titlecase: true
 # Site owner
 owner:
   name: Dhananjay Gupta
-  avatar: bio-photo.jpg
+  avatar: bio-photo-DJ.jpg
   bio: "Seeker! eager to know the ultimate."
   email: dgupta25@uic.edu
   disqus-shortname:
@@ -55,7 +55,7 @@ owner:
     ad-slot:
   bing-verify:
   github: DhananjayGupta300 
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: https://stackoverflow.com/users/9270496/dhananjay-gupta
   linkedin: dhananjaygupta30
   xing: #username
   instagram: dgupta30
