@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Personal Website"
+excerpt: "Dhananjay Gupta"
 tags: [Dhananjay, Homepage, dgupta, blog]
 image:
   feature: sample-image-1.jpg
