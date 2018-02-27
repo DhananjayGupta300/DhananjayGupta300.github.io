@@ -13,7 +13,7 @@ projects:
     - title: "Static Code Analysis DevOps Workflow"
       link: ""
       github: ""
-      image: "/images/Static Code Analysis DevOps Workflow.jpg"
+      image: "/images/Static Code Analysis DevOps Workflow.png"
       about: ""
       
       
