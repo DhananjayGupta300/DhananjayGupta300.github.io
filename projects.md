@@ -1,4 +1,4 @@
- ---
+---
 layout: project-index
 title: Few selected ones
 excerpt: "A List of Things I can boast about"
@@ -9,7 +9,7 @@ projects:
       image: "/images/onlineshoppingwebapplication.jpg"
       about: "This web application displays various categories of products to purchase or look for. It allows users to have their private accounts and put items in a shopping cart."
       
-      <br><br>
+      
     - title: "Phone Number Dialing Activity"
       link: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       github: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
