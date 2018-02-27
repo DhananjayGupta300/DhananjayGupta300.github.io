@@ -9,7 +9,7 @@ projects:
       image: "/images/onlineshoppingwebapplication.jpg"
       about: "This is an Online Shopping Web Application"
       
-      - title: "PhoneNumberDialingActivity"
+    - title: "PhoneNumberDialingActivity"
       link: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       github: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       image: "/images/onlineshoppingwebapplication.jpg"
