@@ -10,6 +10,13 @@ projects:
       about: "This web application displays various categories of products to purchase or look for. It allows users to have their private accounts and put items in a shopping cart."
       
       
+      - title: "Static Code Analysis DevOps Workflow"
+      link: ""
+      github: ""
+      image: "/images/Static Code Analysis DevOps Workflow.jpg"
+      about: ""
+      
+      
     - title: "Phone Number Dialing Activity"
       link: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       github: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
