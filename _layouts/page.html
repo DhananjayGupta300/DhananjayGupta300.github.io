@@ -36,6 +36,19 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
+      {% if post.pdf %}
+
+          <span class="project-link">
+
+            <a href="{{ post.pdf }}" title="{{ post.title }}">
+
+              <i class="fa fa-file-pdf-o fa-2x"></i>
+
+            </a>
+
+          </span>
+
+          {% endif %}
       {% if page.share != false %}
         <hr />
         {% include _social-share.html %}
