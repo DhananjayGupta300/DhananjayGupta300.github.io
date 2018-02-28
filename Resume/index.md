@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Here is an insight to what I have been doing!!!"
+title: "Behold!"
 modified: 2018-02-27
 excerpt: "Resume"
-pdf: "/papers/two.pdf"
+pdf: "/papers/resume.pdf"
 ---
 
 <figure>
   <img src="{{ site.url }}/images/resume.jpg" alt="My Resume">
-  <figcaption>My Resume</figcaption>
+  <figcaption>To download: open in PDF using the icon above</figcaption>
 </figure>
 
