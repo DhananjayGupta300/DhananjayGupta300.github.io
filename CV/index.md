@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Behold my Resume!"
+title: "Here is an insight to what I have been doing!!!"
 modified: 2018-02-27
 excerpt: "Resume"
 ---
