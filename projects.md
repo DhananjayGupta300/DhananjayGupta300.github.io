@@ -17,11 +17,24 @@ projects:
       about: ""
       
       
+    - title: "Comparative Study of Priority Queue Implementations"
+      link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3670"
+      pdf: "/papers/one.pdf"
+      image: "/images/FirstPaper"
+      about: "" 
+      
+    - title: "An Approach to Improve the Efficiency of Priority Queue Implementations"
+      link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3966"
+      pdf: "/papers/two.pdf"
+      image: "/images/SecondPaper"
+      about: ""
+      
     - title: "Phone Number Dialing Activity"
       link: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       github: "https://github.com/DhananjayGupta300/PhoneNumberDialingActivity"
       image: "/images/PhoneNumberDialingActivity.jpg"
       about: "This is an academic android project which initiates a second Activity through the Main Activity to check for valid phone number formats."
       
+   
 ---
 
