@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Behold my CV!"
-modified: 2018-01-05
-excerpt: "CV"
+title: "Behold my Resume!"
+modified: 2018-02-27
+excerpt: "Resume"
 ---
 
 <figure>
-  <img src="{{ site.url }}/images/CV.jpg" alt="My CV">
-  <figcaption>My CV</figcaption>
+  <img src="{{ site.url }}/images/resume.jpg" alt="My Resume">
+  <figcaption>My Resume</figcaption>
 </figure>
 
