@@ -3,7 +3,7 @@ layout: page
 title: "Behold!"
 modified: 2018-02-27
 excerpt: "Resume"
-pdf: "/papers/resume.pdf"
+pdf: "/papers/Resume.pdf"
 ---
 
 <figure>
