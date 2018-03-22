@@ -39,6 +39,13 @@ projects:
       image: "/images/Android.jpg"
       about: "Academic and non-academic projects on Android development."
       
+      
+    - title: ""
+      link: ""
+      github: ""
+      image: "https://i.imgur.com/EnXidFN.gif"
+      about: ""
+      
    
 ---
 
