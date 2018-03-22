@@ -6,8 +6,8 @@ projects:
     
 
     - title: "DevOps application workflow for automatically building and analyzing software applications."
-      link: ""
-      github: ""
+      link: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
+      github: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       image: "/images/Static Code Analysis DevOps Workflow.png"
       about: "Programmatically searched Java repositories in GitHub and uploaded them to Gitlab server, triggered Jenkins build. Build using Gradle, performed tests and collected results running locally using Docker. Made Understand API calls to create analysis report on the software applications.
 "
