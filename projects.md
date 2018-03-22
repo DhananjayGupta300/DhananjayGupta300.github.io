@@ -43,7 +43,7 @@ projects:
     - title: ""
       link: ""
       github: ""
-      image: "https://i.imgur.com/EnXidFN.gif"
+      image: "/images/ABC.gif"
       about: ""
       
    
