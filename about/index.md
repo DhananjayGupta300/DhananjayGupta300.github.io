@@ -5,9 +5,9 @@ tags: [about, Dhananjay,]
 modified: 2018-01-05T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-1.jpg
-  credit: Dhananjay Gupta, Navy Pier at Lake Michigan, Chicago.
-  creditlink: //dgupta.us
+  feature: spring2018.jpg
+  credit: Mark Grechanik, Advance Software Engineering, UIC.
+  creditlink: https://www.cs.uic.edu/~drmark/
 ---
 {% include _toc.html %}
 I’m Dhananjay Gupta, master’s student from the <a href="https://www.cs.uic.edu/">Department of Computer
