@@ -6,7 +6,7 @@ modified: 2018-01-05T20:53:07.573882-04:00
 comments: true
 image:
   feature: spring2018.jpg
-  credit: Mark Grechanik, Advance Software Engineering, UIC.
+  credit: Dr. Mark Grechanik, Best of Best, Advance Software Engineering, UIC.
   creditlink: https://www.cs.uic.edu/~drmark/
 ---
 {% include _toc.html %}
