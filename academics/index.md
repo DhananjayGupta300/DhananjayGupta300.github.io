@@ -8,7 +8,7 @@ comments: true
 ---
 {% include _toc.html %}
 
-I am doing my Master's in <a href="https://www.cs.uic.edu/">Computer Science</a> at the <a href="https://www.uic.edu/">University of Illinois at Chicago</a>. <br/><br/>
+I am pursuing my Master's in <a href="https://www.cs.uic.edu/">Computer Science</a> at the <a href="https://www.uic.edu/">University of Illinois at Chicago</a>. <br/><br/>
 I did my Bachelor's from the <a href="http://www.svvv.edu.in/Department/DisplayDeptPage.aspx?page=gaeag&ItemID=eaaim&nInstiID=a&nDeptID=i">Department of Information Technology</a>, <a href="http://www.svits.ac.in/index.php">Shri Vaishnav Institute of Technology and Science, Indore</a>. Affiliated to <a href="https://www.rgpv.ac.in/">Rajiv Gandhi Technical University</a>, bhopal, India.
 
 Academic Background
@@ -23,6 +23,15 @@ Academic Background
 | Laurels School International, ISC Board           | 2012                | 78.25%          |
 |----
 | Laurels School International, ICSE Board          | 2010                | 90.00%          |
+|=====
+|
+{: rules="groups"}
+
+| Exams                                               | Year            | Performance                |
+|:--------------------------------------------------  |:----------------|:----------------           |
+| Graduate Record Examinations (GRE)                  | 2016            | 323/340 (164, 159)         |
+|----
+| Test of English as a Foreign Language (TOEFL)       | 2016            | 109/120 (29, 29, 24, 28)   |
 |=====
 |
 {: rules="groups"}
