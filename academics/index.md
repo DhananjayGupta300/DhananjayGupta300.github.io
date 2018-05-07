@@ -4,6 +4,10 @@ title: "Academics"
 modified: 2018-01-05
 excerpt: "Dhananjay Gupta, Master's Student, CS, University of Illinois at Chicago"
 tags: ["academics", "graduation", "UIC", "computer"]
+image:
+  feature: academics.jpg
+  credit: 
+  creditlink: 
 comments: true
 ---
 {% include _toc.html %}
