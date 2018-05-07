@@ -6,9 +6,9 @@ modified: 2018-05-05
 excerpt: "Resume"
 comments: true
 image:
-  feature: spring2018.jpg
-  credit: Dr. Mark Grechanik, Best of Best, Advance Software Engineering, UIC.
-  creditlink: https://www.cs.uic.edu/~drmark/
+  feature: resume-cover.jpg
+  credit: 
+  creditlink: 
 ---
 
 <figure>
