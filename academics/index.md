@@ -42,21 +42,20 @@ Major Courses
 
 **Computer Science:**
 
+- Advance Software Engineering
 - Advance Computer Algorithms
+- Object Oriented Languages and Environments
 - Database Management Systems
 - Distributed Systems
-- Advance Software Engineering
-- Applied Artificial Intellignece
-- Data Mining and Text Mining
-- Software Development Using Mobile Platforms
-- Object Oriented Languages and Environments
 - Operating Systems
 - Computer Networks
 - Computer Organization
-- Data Structures and Algorithms
-- Design and Analysis of Algorithms
-- Artificial Intelligence
-- Cloud Computing 
+- Applied Artificial Intellignece
+- Data Mining and Text Mining
+- Software Development Using Mobile Platforms
+- Applied Artificial Intellignece
+- Data Mining and Text Mining
+- Cloud Computing
 
 **Mathematics:**
 
