@@ -1,7 +1,8 @@
 ---
 layout: project-index
-title: Few selected ones
+title: Dhananjay Projects 
 excerpt: "A List of Things I can boast about"
+comments: true
 projects:
     
 
