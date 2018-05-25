@@ -6,6 +6,19 @@ comments: true
 projects:
     
 
+    - title: "Empirical Analysis of Jenkins Pipelines"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: "Discovered patterns and trends in various repositories and their continuous integration pipelines. Analyzed groovy syntax and extracted stages, shell script commands, build invocations using different build tools."
+      
+    - title: "Git Repository Analyze"
+      link: ""
+      github: ""
+      image: ""
+      about: "Developed a git patch analyzer which does string and syntax level parsing to analyze and generate reports for the repositories written in java. Determines common bugs by analyzing repeated patterns in ‘patches’ to source code."
+
     - title: "DevOps application workflow for automatically building and analyzing software applications."
       link: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       github: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
