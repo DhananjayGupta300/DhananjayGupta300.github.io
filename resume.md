@@ -12,7 +12,7 @@ image:
 ---
 
 <figure>
-  <img src="{{ site.url }}/images/resume.jpg" alt="My Resume">
+  <img src="{{ site.url }}/images/CV.jpg" alt="My Resume">
   <figcaption>My Resume</figcaption>
 </figure>
 
