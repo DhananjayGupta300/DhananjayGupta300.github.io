@@ -8,7 +8,7 @@ comments:         true
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   Dhananjay Gupta
 markdown:    kramdown
 highlighter: pygments
 sass:
