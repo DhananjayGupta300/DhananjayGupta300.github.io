@@ -43,13 +43,13 @@
             <img src="{{ site.url }}{{post.image}}"/>
           </a>
         {% endif %}
-        </td>
-      
-      <td class="project-content">
-        <div>
+      </td>
 
-          <h4 class="project-title"; style="color: #0099cc">{{ post.title }}</h4>
-          <div class="project-text">{{ post.about | truncate: 150 }}</div>
+      <td class="project-content">
+        <div align="center">
+
+          <h4 class="project-title"; style="color: #0099cc">{{ post.title }}</h4><hr>
+          <div class="project-text">{{ post.about | truncate: 180 }}</div>
           
           
           {% if post.github %}
@@ -89,7 +89,7 @@
       </td>
     </tr>
     
-    {% endfo<div>r %}
+    {% endfor %}
   </table>
 
   <!-- {% for post in page.projects %} -->
