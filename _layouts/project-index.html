@@ -37,14 +37,16 @@
     {% for post in page.projects %}
 
     <tr class="project">
+      <div class="split left">
       <td class="project-image">
         {% if post.image %}
           <a href="{{ post.link }}" title="{{ post.title }}">
             <img src="{{ site.url }}{{post.image}}"/>
           </a>
         {% endif %}
-      </td>
+        </td></div>
 
+      <div class="split right">
       <td class="project-content">
         <div align="center">
 
@@ -86,10 +88,10 @@
           
         </div>
         <br><br><br>
-      </td>
+      </td></div>
     </tr>
     
-    {% endfor %}
+    {% endfo<div>r %}
   </table>
 
   <!-- {% for post in page.projects %} -->
