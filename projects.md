@@ -19,7 +19,7 @@ projects:
       image: ""
       about: "Developed a git patch analyzer which does string and syntax level parsing to analyze and generate reports for the repositories written in java. Determines common bugs by analyzing repeated patterns in ‘patches’ to source code."
 
-    - title: "DevOps application workflow for automatically building and analyzing software applications."
+    - title: "DevOps application to automatically building and analyze software applications."
       link: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       github: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       image: "/images/ABC.gif"
