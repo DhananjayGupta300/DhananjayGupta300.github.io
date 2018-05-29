@@ -51,7 +51,7 @@
           <h4 class="project-title">{{ post.title }}</h4>
           <hr>
           <div class="project-text">{{ post.about | truncate: 180 }}</div>
-          <br><br><br>
+          
           
           {% if post.github %}
           <span class="project-link">
@@ -88,6 +88,7 @@
         </div>
       </td>
     </tr>
+    <br><br><br>
     {% endfor %}
   </table>
 
