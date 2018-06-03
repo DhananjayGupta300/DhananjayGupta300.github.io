@@ -1,6 +1,6 @@
 ---
 layout: project-index
-title: Dhananjay Gupta Projects 
+title: Projects-Dhananjay Gupta 
 excerpt: "Dhananjay Gupta Projeccts: Few Things I can boast about"
 comments: true
 projects:
@@ -13,7 +13,7 @@ projects:
       image: ""
       about: "Discovered patterns and trends in various repositories and their continuous integration pipelines. Analyzed groovy syntax and extracted stages, shell script commands, build invocations using different build tools."
       
-    - title: "Git Repository Analyze"
+    - title: "Git Repository Analyzer"
       link: ""
       github: ""
       image: ""
