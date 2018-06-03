@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Dhananjay Gupta"
+excerpt: "Dhananjay Gupta : Passionate and Perceptive"
 tags: [Dhananjay Gupta, Homepage, dgupta, blog, Dhananjay]
 image:
   feature: sample-image-1.jpg
