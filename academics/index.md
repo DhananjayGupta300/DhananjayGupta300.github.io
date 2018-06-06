@@ -31,11 +31,11 @@ Academic Background
 |
 {: rules="groups"}
 
-| Exams                                               | Year              | Performance              |
-|:--------------------------------------------------  |:------------------|:-------------------------|
-| Graduate Record Examinations (GRE)                  | 2016              | 323/340  (164, 159)      |
+| Exams                                             | Year                | Performance              |
+|:--------------------------------------------------|:--------------------|:-------------------------|
+| Graduate Record Examinations (GRE)                | 2016                | 323/340  (164, 159)      |
 |----
-| Test of English as a Foreign Language (TOEFL)       | 2016              | 109/120  (29, 29, 24, 28)|
+| Test of English as a Foreign Language (TOEFL)     | 2016                | 109/120  (29, 29, 24, 28)|
 |=====
 |
 {: rules="groups"}
