@@ -2,17 +2,17 @@
 layout: page
 title: "Behold!"
 tags: [Resume, Dhananjay Gupta]
-modified: 2018-05-05
-excerpt: "Resume"
+modified: 2018-06-06
+excerpt: "Dhananjay Gupta's Resume"
 comments: true
 image:
-  feature: resume-cover.jpg
+  feature: Dhananjay Gupta Resume Cover.jpg
   credit: 
   creditlink: 
 ---
 
 <figure>
-  <img src="{{ site.url }}/images/CV.jpg" alt="My Resume">
+  <img src="{{ site.url }}/images/Dhananjay Gupta CV.jpg" alt="My Resume">
   <figcaption>My Resume</figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
----
+﻿---
 layout: project-index
-title: Projects-Dhananjay Gupta 
-excerpt: "Dhananjay Gupta Projeccts: Few Things I can boast about"
+title: Dhananjay Gupta Projects 
+excerpt: "Dhananjay Gupta Projects: Few Things I can boast about"
 comments: true
 projects:
     
@@ -22,25 +22,25 @@ projects:
     - title: "DevOps application to automatically building and analyze software applications."
       link: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       github: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
-      image: "/images/ABC.gif"
+      image: "/images/Dhananjay Gupta DevOps.gif"
       about: "Programmatic simulation to the process by streaming repositories from GitHub, uploading each repository to a local GitLab server and triggering the local Jenkins server which builds, tests and analyses repositories using JaCoCo and Understand. "
 
     - title: "Online Shopping Web Application"
       link: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
       github: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
-      image: "/images/onlineshoppingwebapplication.jpg"
+      image: "/images/Dhananjay Gupta Online Shopping Web Application.jpg"
       about: "This web application displays various categories of products to purchase or look for. It allows users to have their private accounts and put items in a shopping cart."
             
     - title: "Comparative Study of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3670"
-      pdf: "/papers/one.pdf"
-      image: "/images/FirstPaper.jpg"
+      pdf: "/papers/Dhananjay Gupta One.pdf"
+      image: "/images/Dhananjay Gupta First.jpg"
       about: "Provides a survey of ways to implement priority queues and their associated complexities" 
       
     - title: "An Approach to Improve the Efficiency of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3966"
-      pdf: "/papers/two.pdf"
-      image: "/images/SecondPaper.png"
+      pdf: "/papers/Dhananjay Gupta Two.pdf"
+      image: "/images/Dhananjay Gupta Second.png"
       about: "Discuses an approach to improve efficiency in implementing Priorty Queues through memory pool."
       
     - title: "Text-Editor"
@@ -52,25 +52,25 @@ projects:
     - title: "LuckyUnlucky-A-Multiplayer Game"
       link: "https://github.com/DhananjayGupta300/Android-Projects"
       github: "https://github.com/DhananjayGupta300/Android-Projects"
-      image: "/images/Android.jpg"
+      image: "/images/Dhananjay GuptaAndroid.jpg"
       about: "MultiThreaded two player game. Choose players and bet your luck!"
       
     - title: "CityGuide - Application"
       link: "https://github.com/DhananjayGupta300/Android-Projects"
       github: "https://github.com/DhananjayGupta300/Android-Projects"
-      image: "/images/Android.jpg"
+      image: "/images/Dhananjay Gupta Android.jpg"
       about: "CityGuide is an android apps that uses fragments and displays top 10 attractions and restaurants in the city of chicago."
 
     - title: "Playlist Manager"
       link: "https://github.com/DhananjayGupta300/Android-Projects"
       github: "https://github.com/DhananjayGupta300/Android-Projects"
-      image: "/images/Android.jpg"
+      image: "/images/Dhananjay Gupta Android.jpg"
       about: "Android application to manage your favourite songs and related information."  
       
     - title: "Phone Dialing Application"
       link: "https://github.com/DhananjayGupta300/Android-Projects"
       github: "https://github.com/DhananjayGupta300/Android-Projects"
-      image: "/images/Android.jpg"
+      image: "/images/Dhananjay Gupta Android.jpg"
       about: "Diving into the World of mobile development"  
       
     
