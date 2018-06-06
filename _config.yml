@@ -16,6 +16,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -74,3 +75,6 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+gems:
+  - jekyll-sitemap
