@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Past Ecstasies
+title:            Afflatus
 locale:           en_US
 url:              http://dgupta.us 
 comments:         true
@@ -43,7 +43,7 @@ titlecase: true
 # Site owner
 owner:
   name: Dhananjay Gupta
-  avatar: bio-photo-DJ.jpg
+  avatar: Dhananjay Gupta Bio.jpg
   bio: "Passionate and Perceptive"
   email: dgupta25@uic.edu
   linkedin: dhananjaygupta30
