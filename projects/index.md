@@ -1,4 +1,4 @@
-﻿---
+---
 layout: project-index
 title: Dhananjay Gupta Projects 
 excerpt: "Dhananjay Gupta Projects: Few Things I can boast about"
