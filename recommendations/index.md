@@ -2,7 +2,7 @@
 layout: page
 title: "Recommendations Received - Dhananjay Gupta"
 modified: 2018-01-05
-excerpt: "Recommendations Dhananjay Gupta received"
+excerpt: "Dhananjay Gupta Recommendations received"
 ---
 
 {% include _toc.html %}
