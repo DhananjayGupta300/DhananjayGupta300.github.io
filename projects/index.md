@@ -33,7 +33,7 @@ projects:
             
     - title: "Comparative Study of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3670"
-      pdf: "/papers/Dhananjay Gupta One.pdf"
+      pdf: "http://dgupta.us/Efficiency-of-Priority-Queues/paper.pdf"
       image: "/images/Dhananjay Gupta First.jpg"
       about: "Provides a survey of ways to implement priority queues and their associated complexities" 
       
