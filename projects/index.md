@@ -39,7 +39,7 @@ projects:
       
     - title: "An Approach to Improve the Efficiency of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3966"
-      pdf: "/papers/Dhananjay Gupta Two.pdf"
+      pdf: "http://dgupta.us/Improving-Priority-Queue-Implementation-Efficiencies/"
       image: "/images/Dhananjay Gupta Second.png"
       about: "Discuses an approach to improve efficiency in implementing Priorty Queues through memory pool."
       
