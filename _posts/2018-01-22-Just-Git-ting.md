@@ -56,23 +56,21 @@ discover or invent the right concepts, and that rough edges in these concepts an
 Conceptual design is about the design of user-visible behavior, and not the design of internal software structure, and the term “conceptual model” is used for a speci?cation that focuses on concepts rather than the details of behavior. <br/><br/>
 Brooks lists three principles as representing the notion of conceptual integrity: 
 
-1. **Orthogonality** – that individual functions should be independent of one another
-2. **Propriety** – that a product should have only the functions essential to its purpose and no more
-3. **Generality** – that a single function should be usable in many ways.
+1.**Orthogonality** – that individual functions should be independent of one another
+2.**Propriety** – that a product should have only the functions essential to its purpose and no more
+3.**Generality** – that a single function should be usable in many ways.
 
 <br/><br/>
 
 The Gist! Problems with Git
 ---------------------------
 
-**Staging area complications:**
+#### Staging area complications:
 - Explanations of Git use the term “*tracked ?les*” to refer to ?les that have been added. This confuses novices, since such ?les are tracked only in the sense that the status command will notice that changes to them have not been committed. *Contrary* to initial expectation, if a tracked ?le is updated, a subsequent commit will save the older version of the ?le(representing its state the last time the add command was called), and not the latest version.
-- The situation is made more *complicated* by the fact that tracked ?les may not have corresponding versions in the staging area. Following a commit, a ?le that had been previously added remains tracked, but the version in the staging area is removed. The term “*staged ?le*” often used interchangeably with “*tracked ?le*” is thus subtly different: in this case, we have a ?le that is tracked but no longer staged.  
-<br/><br/>
-**conceptual model:** <br/><br/>
+- The situation is made more *complicated* by the fact that tracked ?les may not have corresponding versions in the staging area. Following a commit, a ?le that had been previously added remains tracked, but the version in the staging area is removed. The term “*staged ?le*” often used interchangeably with “*tracked ?le*” is thus subtly different: in this case, we have a ?le that is tracked but no longer staged.
+#### conceptual model:
 conveyed by an application–in its documentation, marketing materials, implied by its user interface, and even in the culture that surrounds it – has to be regarded as inseparable from the application itself. So to the extent that consensus is missing on an application’s conceptual model, it is arguably the application itself that is at *fault*. 
-<br/><br/>
-**File Discrepancies:**
+#### File Discrepancies:
 + A File is the identity of a *Unix ?le*, to be distinguished from its contents. In Git, identity is equated with the path of the ?le; thus the concept might equally well have been named File Path.
 + An alternative designation of File would treat it as an identity independent of the ?le’s path, so that a change of name could be regarded as a modi?cation of one of the properties of a ?le. Git sometimes provides an *illusion* that this is the case; by examining the contents of ?les, for example, the git status command is able to report when the name of a ?le has been changed (but will also *incorrectly* report a change of name if you copy a ?le and delete the original).
 + It is important to note that existence of a File does not imply that a Unix ?le corresponding to it exists in the ?le system, since a File can be staged for removal on the next commit.
