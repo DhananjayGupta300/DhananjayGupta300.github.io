@@ -7,7 +7,7 @@ modified: 2018-06-06T14:45:07.573882-04:00
 comments: true
 image:
   feature: Dhananjay Gupta Spring2018.jpg
-  credit: Dr. Mark Grechanik, Best of Best, Advance Software Engineering, UIC.
+  credit: Dr. Mark Grechanik, Advance Software Engineering, UIC.
   creditlink: https://www.cs.uic.edu/~drmark/
 ---
 {% include _toc.html %}
