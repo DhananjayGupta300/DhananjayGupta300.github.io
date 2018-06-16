@@ -4,11 +4,11 @@ layout: post
 
 title: “Just Git-ting!”
 
-excerpt: "Git: Identifying some undesirable properties, a conceptual design analysis "
+excerpt: "Git: Identifying some undesirable properties"
 
 modified: 2018-08-16
 
-tags: [Git, Problems, Design Analysis, tutorial, Dhananjay Gupta]
+tags: [Git, Problems, Design, Analysis, Dhananjay Gupta]
 
 comments: true
 
@@ -57,8 +57,8 @@ Conceptual design is about the design of user-visible behavior, and not the desi
 Brooks lists three principles as representing the notion of conceptual integrity: 
 
 1. **Orthogonality** – that individual functions should be independent of one another
-2. **Propriety** – that product should have only the functions essential to its purpose and no more
-3. **Generality** – that single function should be usable in many ways.
+2. **Propriety** – that product should have only the functions essential to its purpose
+3. **Generality** – that single function should be usable in many ways
 
 <br/><br/>
 
@@ -68,17 +68,20 @@ The Gist! Problems with Git
 #### Staging area complications:
 - Explanations of Git use the term “*tracked ?les*” to refer to ?les that have been added. This confuses novices, since such ?les are tracked only in the sense that the status command will notice that changes to them have not been committed. *Contrary* to initial expectation, if a tracked ?le is updated, a subsequent commit will save the older version of the ?le(representing its state the last time the add command was called), and not the latest version.
 - The situation is made more *complicated* by the fact that tracked ?les may not have corresponding versions in the staging area. Following a commit, a ?le that had been previously added remains tracked, but the version in the staging area is removed. The term “*staged ?le*” often used interchangeably with “*tracked ?le*” is thus subtly different: in this case, we have a ?le that is tracked but no longer staged.
+
 #### conceptual model:
-conveyed by an application–in its documentation, marketing materials, implied by its user interface, and even in the culture that surrounds it – has to be regarded as inseparable from the application itself. So to the extent that consensus is missing on an application’s conceptual model, it is arguably the application itself that is at *fault*. 
+conveyed by an application–in its documentation, marketing materials, implied by its user interface, and even in the culture that surrounds it – has to be regarded as inseparable from the application itself. So to the extent that consensus is missing on an application’s conceptual model, it is arguably the application itself that is at *fault*.
+
 #### File Discrepancies:
-+ A File is the identity of a *Unix ?le*, to be distinguished from its contents. In Git, identity is equated with the path of the ?le; thus the concept might equally well have been named File Path.
-+ An alternative designation of File would treat it as an identity independent of the ?le’s path, so that a change of name could be regarded as a modi?cation of one of the properties of a ?le. Git sometimes provides an *illusion* that this is the case; by examining the contents of ?les, for example, the git status command is able to report when the name of a ?le has been changed (but will also *incorrectly* report a change of name if you copy a ?le and delete the original).
-+ It is important to note that existence of a File does not imply that a Unix ?le corresponding to it exists in the ?le system, since a File can be staged for removal on the next commit.
-+ **Tracked Files:**
-  - The Pro Git book describes *tracked ?les* as *“?les that were in the last snapshot; they can be unmodi?ed, modi?ed or staged.”* It’s not entirely clear what is meant by “?les that were in the last snapshot” but from the context it appears to mean “?les that were in the last commit point.” The book then says “Untracked ?les are everything else,”but then quali?es this, surprisingly, with “[namely] any ?les in your working directory that were not in your last snapshot and are not in your staging area” suggesting that tracked ?les also includes ?les that have been staged but are not part of the last snapshot, *contradicting* the earlier de?nition.
-+ **Untracked Files:**
+
++ A File is the identity of a *Unix ?le*, to be distinguished from its contents. In Git, identity is equated with the path of the ?le; thus the concept might equally well have been named File Path. <br/>
++ An alternative designation of File would treat it as an identity independent of the ?le’s path, so that a change of name could be regarded as a modi?cation of one of the properties of a ?le. Git sometimes provides an *illusion* that this is the case; by examining the contents of ?les, for example, the git status command is able to report when the name of a ?le has been changed (but will also *incorrectly* report a change of name if you copy a ?le and delete the original). <br/>
++ It is important to note that existence of a File does not imply that a Unix ?le corresponding to it exists in the ?le system, since a File can be staged for removal on the next commit. <br/>
++ **Tracked Files:**<br/>
+  - The Pro Git book describes *tracked files* as *“files that were in the last snapshot; they can be unmodi?ed, modi?ed or staged.”* It’s not entirely clear what is meant by “?les that were in the last snapshot” but from the context it appears to mean “?les that were in the last commit point.” The book then says “Untracked files are everything else,”but then quali?es this, surprisingly, with “[namely] any files in your working directory that were not in your last snapshot and are not in your staging area” suggesting that tracked ?les also includes ?les that have been staged but are not part of the last snapshot, *contradicting* the earlier de?nition. <br/>
++ **Untracked Files:** <br/>
   - Executing `git rm --cached` of a tracked ?le stages the removal of the ?le without touching the ?le in the working directory, so that it will be deleted from the repository at the next commit. Subsequently running `git status` will show the ?le under both the “Changes to be committed” section (as “deleted”) and in the “Untracked ?les” section. We thus have a ?le that is both tracked and untracked (according to our designations).
-**The** `git rm` **command:** <br/><br/>
+#### The `git rm` command:
 To remove the ?le from the repository, in contrast, one executes a `git rm`, which removes the staged and working versions, and additionally marks the ?le for removal in the next commit. Git’s documentation is not a big help here; the man page for `git rm`, for example, states “Remove ?les from the index, or from the working tree and the index.” suggesting that an unstaging is performed, when in fact a staging for removal is performed instead. <br/><br/>
 Some care is required in distinguishing between a ?le being unstaged (meaning that its staged version is removed) and being staged for removal (which means that the staging area records the absence of the ?le rather than its presence, so that it will be removed from the local repository on the next commit). Suppose a ?le is added (using the `git add` command), then removed (using the `Unix rm` command)and then committed (using the `git commit` command). Prior to the commit, the ?le has a staged version but no working version; after the commit, it has no staged version either.      
 
