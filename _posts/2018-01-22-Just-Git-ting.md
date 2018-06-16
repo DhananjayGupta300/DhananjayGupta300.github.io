@@ -56,9 +56,9 @@ discover or invent the right concepts, and that rough edges in these concepts an
 Conceptual design is about the design of user-visible behavior, and not the design of internal software structure, and the term “conceptual model” is used for a speci?cation that focuses on concepts rather than the details of behavior. <br/><br/>
 Brooks lists three principles as representing the notion of conceptual integrity: 
 
-1.**Orthogonality** – that individual functions should be independent of one another
-2.**Propriety** – that a product should have only the functions essential to its purpose and no more
-3.**Generality** – that a single function should be usable in many ways.
+1. **Orthogonality** – that individual functions should be independent of one another
+2. **Propriety** – that product should have only the functions essential to its purpose and no more
+3. **Generality** – that single function should be usable in many ways.
 
 <br/><br/>
 
