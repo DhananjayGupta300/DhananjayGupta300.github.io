@@ -104,6 +104,3 @@ Some Git enthusiasts make arguments for the value of the staging concept, but fo
 Branches are intended to support independent lines of development. A line of development comprises both the working versions of files and committed versions. And yet, in Git’s conceptual model, only the committed versions are organized by branch; while there are potentially multiple committed versions of a ?le (one per branch), there can only be one working version. There is thus a lack of generality, with the branching feature essentially available only in one area and not another. <br/><br/> 
 *I Just Want to Stop Tracking a File!* <br/><br/>
 The concepts of “assumed unchanged” and “untracked” play fundamentally the same role: they mark files that are not to be included in commits. And yet there is no general concept that subsumes the two of them, since Git distinguishes files according to whether they have been previously committed; a file can only be untracked if it is not also committed. Whether a file is committed is not under the user’s control, since a file can be committed as a result of a pull from another user’s repository. In short,there is a violation here both of generality (since a more general concept would subsume both cases), and propriety (since the concept of “assumed unchanged file” could be eliminated).
-
-#### Acknowledgments:
-
