@@ -6,7 +6,7 @@ title: “Just Git-ting!”
 
 excerpt: "Git: Identifying some undesirable properties"
 
-modified: 2018-08-16
+modified: 2018-01-22
 
 tags: [Git, Problems, Design, Analysis, Dhananjay Gupta]
 
