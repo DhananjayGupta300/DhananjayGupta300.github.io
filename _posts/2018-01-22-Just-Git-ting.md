@@ -12,13 +12,7 @@ tags: [Git, Problems, Design, Analysis, Dhananjay Gupta]
 
 comments: true
 
-image:
-
-  feature: 
-
-  credit: 
-
-  creditlink: 
+<meta property="og:image" content="/images/thumbnail.jpg">
 
 ---
 
