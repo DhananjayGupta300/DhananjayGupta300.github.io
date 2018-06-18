@@ -20,7 +20,7 @@
 {% if page.image.feature %}
 <meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}
-<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.jpg{% endif %}">
-{% else %}
 <meta property="og:image" content="https://github.com/DhananjayGupta300/DhananjayGupta300.github.io/blob/master/images/thumbnail.jpg">
+{% else %}
+<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.jpg{% endif %}">
 {% endif %}
