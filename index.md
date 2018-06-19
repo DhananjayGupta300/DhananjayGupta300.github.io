@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Dhananjay Gupta : Passionate and Perceptive"
+excerpt: "Dhananjay Gupta : Software Engineer | Full-Stack Developer | DevOps | CS Grad at UIC"
 tags: [Dhananjay Gupta, Homepage, dgupta, blog, Dhananjay]
 image:
   feature: Dhananjay Gupta Cover.jpg
