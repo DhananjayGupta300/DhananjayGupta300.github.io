@@ -2,7 +2,7 @@
 
 layout: post
 
-title: “Beauty and the Beast”
+title: â€œBeauty and the Beastâ€
 
 excerpt: "Gist: Diverting modern web browsers to build unique browser fingerprints by Pierre Laperdrix, Walter Rudametkin, Benoit Baudry"
 
@@ -13,11 +13,11 @@ tags: [browser fingerprints, privacy, softwar diversity, dhananjay gupta]
 comments: true
 
 image:
-  feature: DhananjayGuptaBeautyandtheBeast.jpg
+  feature: DhananjayGuptaBeautyandtheBeast.jpeg
   
 ---
 
- 
+Â 
 
 <section id="table-of-contents" class="toc">
   <header>
