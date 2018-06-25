@@ -12,6 +12,9 @@ tags: [Git, Problems, Design, Analysis, Dhananjay Gupta]
 
 comments: true
 
+image:
+  feature: DhananjayGuptaJustGitting.jpg
+
 ---
 
  
