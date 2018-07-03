@@ -7,15 +7,15 @@ projects:
     
 
     - title: "Empirical Analysis of Jenkins Pipelines"
-      link: ""
+      link: "https://github.com/DhananjayGupta300/Empirical-Analysis-of-Jenkins-Pipelines"
       pdf: ""
-      github: ""
+      github: "https://github.com/DhananjayGupta300/Empirical-Analysis-of-Jenkins-Pipelines"
       image: ""
       about: "Discovered patterns and trends in various repositories and their continuous integration pipelines. Analyzed groovy syntax and extracted stages, shell script commands, build invocations using different build tools."
       
     - title: "Git Repository Analyzer"
-      link: ""
-      github: ""
+      link: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
+      github: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
       image: ""
       about: "Git patch analyzer which does string and syntax level parsing to analyze and generate reports for the repositories written in java. Determines common bugs by analyzing repeated patterns in ‘patches’ to source code."
 
@@ -44,32 +44,32 @@ projects:
       about: "Discuses an approach to improve efficiency in implementing Priorty Queues through memory pool."
       
     - title: "Text-Editor"
-      link: ""
-      github: ""
+      link: "https://github.com/DhananjayGupta300/Text-Editor"
+      github: "https://github.com/DhananjayGupta300/Text-Editor"
       image: ""
       about: "A simple text editor made in java. Got my hands dirty with Java for the first time."  
       
     - title: "LuckyUnlucky-A-Multiplayer Game"
-      link: "https://github.com/DhananjayGupta300/Android-Projects"
-      github: "https://github.com/DhananjayGupta300/Android-Projects"
+      link: "https://github.com/DhananjayGupta300/LuckyUnlucky-A-MultiPlayer-Game"
+      github: "https://github.com/DhananjayGupta300/LuckyUnlucky-A-MultiPlayer-Game"
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "MultiThreaded two player game. Choose players and bet your luck!"
       
     - title: "CityGuide - Application"
-      link: "https://github.com/DhananjayGupta300/Android-Projects"
-      github: "https://github.com/DhananjayGupta300/Android-Projects"
+      link: "https://github.com/DhananjayGupta300/CityGuide-Application"
+      github: "https://github.com/DhananjayGupta300/CityGuide-Application"
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "CityGuide is an android apps that uses fragments and displays top 10 attractions and restaurants in the city of chicago."
 
     - title: "Playlist Manager"
-      link: "https://github.com/DhananjayGupta300/Android-Projects"
-      github: "https://github.com/DhananjayGupta300/Android-Projects"
+      link: "https://github.com/DhananjayGupta300/Playlist-Manager"
+      github: "https://github.com/DhananjayGupta300/Playlist-Manager"
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "Android application to manage your favourite songs and related information."  
       
     - title: "Phone Dialing Application"
-      link: "https://github.com/DhananjayGupta300/Android-Projects"
-      github: "https://github.com/DhananjayGupta300/Android-Projects"
+      link: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
+      github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "Diving into the World of mobile development"  
       
