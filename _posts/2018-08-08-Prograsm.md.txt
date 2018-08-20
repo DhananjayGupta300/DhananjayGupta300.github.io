@@ -1,0 +1,183 @@
+﻿---
+
+layout: post
+
+title: “Prograsm”
+
+excerpt: "Prograsm: Reaching the software engineering project climax"
+
+modified: 2018-08-08
+
+tags: [Software Engineering, Software Design, Analysis, Dhananjay Gupta, The Mythical Man Month]
+
+comments: true
+
+image:
+  feature: DhananjayGuptaPrograsm.jpg
+
+---
+
+ 
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
+ 
+
+Introduction
+------------
+
+In many ways managing a large computer proramming project is like managing any other large undetaking--in many more ways than most programmers believe. But in many other ways it is different--in more ways than most professional managers except.
+Following is a gist from one of the best books on software engineering: [**The Mythical Man Month by Frederick P. Brooks, Jr.**] (https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+
+### The Tar Pit
+
+- Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program. <br/>
+- The technological base on which one builds is always advancing. As soon as one freezes a design, it becomes obsolete in
+terms of its concepts. But implementation of real products demands phasing and quantizing. The obsolescence of an implementation
+must be measured against other existing implementations, not against unrealized concepts. The challenge and the mission are
+to find real solutions to real problems on actual schedules with available resources.<br/><br/>
+This then is programming, both a tar pit in which many efforts
+have floundered and a creative activity with joys and woes all its
+own. For many, the joys far outweigh the woes, and for them the
+remainder of this artcile will attempt to lay some boardwalks across
+the tar.
+
+### The Mythical Man Month
+
+- The maximum number of men depends upon the number
+of independent subtasks. From these two quantities one can derive
+schedules using fewer men and more months. The only risk is
+product obsolescence.<br/>
+- One cannot, however, get workable schedules
+using more men and fewer months. More software projects
+have gone awry for lack of calendar time than for all other causes
+combined.
+
+### The Surgical Team
+
+
+>   The Mythical Man Month, Fred Brooks described **conceptual integrity** as “the most important consideration in system design.”
+
+
+- Within a group of even experienced progrmmars just this group the ratios between best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on
+program speed and space measurements! In short the $20,000/year programmer may well be 10 times as productive as the $10,000/year one.<br/>
+- A proposal by Harlan Mills offers a fresh and creative solution. Mills proposes that each segment of a large job be tackled
+by a team, but that the team be organized like a surgical team rather than a hog-butchering team. That is, instead of each member
+cutting away on the problem, one does the cutting and the others give him every support that will enhance his effectiveness and productivity.<br/><br/>
+
+#### How It Works
+
++ **The surgeon:** Mills calls him a chief programmer. He personally
+defines the functional and performance specifications, designs the
+program, codes it, tests it, and writes its documentation. He writes
+in a structured programming language such as PL/I, and has effective
+access to a computing system which not only runs his tests but
+also stores the various versions of his programs, allows easy file
+updating, and provides text editing for his documentation. He
+needs great talent, ten years experience, and considerable systems
+and application knowledge, whether in applied mathematics,
+business data handling, or whatever. <br/>
++ The copilot. He is the alter ego of the surgeon, able to do any
+part of the job, but is less experienced. His main function is to
+share in the design as a thinker, discussant, and evaluator. The
+surgeon tries ideas on him, but is not bound by his advice. The
+copilot often represents his team in discussions of function and
+interface with other teams. He knows all the code intimately. He
+researches alternative design strategies. He obviously serves as
+insurance against disaster to the surgeon. He may even write code,
+but he is not responsible for any part of the code. <br/>
+
++ **The administrator:** The surgeon is boss, and he must have the
+last word on personnel, raises, space, and so on, but he must spend
+almost none of his time on these matters. Thus he needs a professional
+administrator who handles money, people, space, and machines,
+and who interfaces with the administrative machinery of
+the rest of the organization. Baker suggests that the administrator
+has a full-time job only if the project has substantial legal, contractual,
+reporting, or financial requirements because of the userproducer
+relationship. Otherwise, one administrator can serve two
+teams.<br/>
++ **The editor:** The surgeon is responsible for generating the documentation—for
+maximum clarity he must write it. This is true of
+both external and internal descriptions. The editor, however, takes
+the draft or dictated manuscript produced by the surgeon and
+criticizes it, reworks it, provides it with references and bibliography,
+nurses it through several versions, and oversees the mechanics
+of production.<br/>
++ **Two secretaries:** The administrator and the editor will each need
+a secretary; the administrator's secretary will handle project correspondence
+and non-product files.<br/>
++ **The program clerk:** He is responsible for maintaining all the
+technical records of the team in a programming-product library.
+The clerk is trained as a secretary and has responsibility for both
+machine-readable and human-readable files.
+All computer input goes to the clerk, who logs and keys it if
+required. The output listings go back to him to be filed and indexed.
+The most recent runs of any model are kept in a status
+notebook; all previous ones are filed in a chronological archive.
+Absolutely vital to Mills's concept is the transformation of
+programming "from private art to public practice" by making all
+the computer runs visible to all team members and identifying all
+programs and data as team property, not private property.
+The specialized function of the program clerk relieves programmers
+of clerical chores, systematizes and ensures proper per-formance of those oft-neglected chores, and enhances the team's
+most valuable asset—its work-product. Clearly the concept as set
+forth above assumes batch runs. When interactive terminals are
+used, particularly those with no hard-copy output, the program
+clerk's functions do not diminish, but they change. Now he logs
+all updates of team program copies from private working copies,
+still handles all batch runs, and uses his own interactive facility to
+control the integrity and availability of the growing product. <br/>
++ **The toolsmith:** File-editing, text-editing, and interactive debugging
+services are now readily available, so that a team will rarely
+need its own machine and machine-operating crew. But these
+services must be available with unquestionably satisfactory response
+and reliability; and the surgeon must be sole judge of the
+adequacy of the service available to him. He needs a toolsmith,
+responsible for ensuring this adequacy of the basic service and for
+constructing, maintaining, and upgrading special tools—mostly
+interactive computer services—needed by his team. Each team will
+need its own toolsmith, regardless of the excellence and reliability
+of any centrally provided service, for his job is to see to the tools
+needed or wanted by his surgeon, without regard to any other
+team's needs. The tool-builder will often construct specialized
+utilities, catalogued procedures, macro libraries.
++ **The tester:** The surgeon will need a bank of suitable test cases
+for testing pieces of his work as he writes it, and then for testing
+the whole thing. The tester is therefore both an adversary who
+devises system test cases from the functional specs, and an assistant
+who devises test data for the day-by-day debugging. He
+would also plan testing sequences and set up the scaffolding required
+for component tests.
++ **The language lawyer:** By the time Algol came along, people
+began to recognize that most computer installations have one or
+two people who delight in mastery of the intricacies of a programming
+language. And these experts turn out to be very useful and
+very widely consulted. The talent here is rather different from that
+of the surgeon, who is primarily a system designer and who thinks
+representations. The language lawyer can 6nd a neat and efficient
+way to use the language to do difficult, obscure, or tricky things.
+Often he will need to do small studies (two or three days) on good
+technique. One language lawyer can service two or three surgeons.
+This, then, is how 10 people might contribute in welldifferentiated
+and specialized roles on a programming team built
+on the surgical model. <br/>
++ The team should meet the desiderata in several ways. Ten
+people, seven of them professionals, are at work on the problem,
+but the system is the product of one mind—or at most two, acting
+uno animo.<br/>
++ In this team, the **surgeon and copilot** are each
+cognizant of all of the design and all of the code. This saves the
+labor of allocating space, disk accesses, etc. It also ensures the
+**conceptual integrity** of the work. <br/>
++ The specialization of function of the remainder of the team
+is the key to its efficiency, for it permits a radically simpler communication
+pattern among the member.<br/>
