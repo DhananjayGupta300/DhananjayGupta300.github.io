@@ -4,7 +4,7 @@ layout: post
 
 title: “Just Git-ting!”
 
-excerpt: "Git: What's wrong with Git! Identifying some undesirable properties"
+excerpt: "Just Git-ing: What's wrong with Git! Identifying some undesirable properties"
 
 modified: 2018-01-22
 
