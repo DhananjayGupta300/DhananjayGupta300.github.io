@@ -4,7 +4,7 @@ layout: post
 
 title: “Just Git-ting!”
 
-excerpt: "Git: Identifying some undesirable properties"
+excerpt: "Git: What's wrong with Git! Identifying some undesirable properties"
 
 modified: 2018-01-22
 
@@ -46,11 +46,11 @@ Sometimes the conceptual basis of a software product is built by analogy to the 
 discover or invent the right concepts, and that rough edges in these concepts and their relationships will lead to rough edges in the delivered product.
 
 
->   The Mythical Man Month, Fred Brooks described **conceptual integrity** as “the most important consideration in system design.”
+>   The Mythical Man Month, Fred Brooks described **conceptual integrity** as “the most important consideration in system design.” See [*Prograsm*](http://dgupta.us/Prograsm) for more details.
 
 
 Conceptual design is about the design of user-visible behavior, and not the design of internal software structure, and the term “conceptual model” is used for a specification that focuses on concepts rather than the details of behavior. <br/><br/>
-Brooks lists three principles as representing the notion of conceptual integrity: 
+Brooks lists three principles (see [*Prograsm*](http://dgupta.us/Prograsm))as representing the notion of conceptual integrity: 
 
 1. **Orthogonality** – that individual functions should be independent of one another
 2. **Propriety** – that product should have only the functions essential to its purpose
