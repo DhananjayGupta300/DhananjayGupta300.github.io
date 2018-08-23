@@ -67,11 +67,17 @@ projects:
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "Android application to manage your favourite songs and related information."  
       
+    - title: "Android Services and Database"
+      link: "https://github.com/DhananjayGupta300/ServicesAndDatabase"
+      github: "https://github.com/DhananjayGupta300/ServicesandDatabase"
+      image: "/images/Dhananjay Gupta Android.jpg"
+      about: "Android application that demostrates use of Android services and using Database"  
+        
     - title: "Phone Dialing Application"
       link: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       image: "/images/Dhananjay Gupta Android.jpg"
-      about: "Diving into the World of mobile development"  
+      about: "Simple Android application to demonstrate usage of activites and calling other activities"  
       
     
    
