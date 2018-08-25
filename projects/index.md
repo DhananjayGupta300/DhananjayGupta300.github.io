@@ -16,7 +16,7 @@ projects:
     - title: "Git Repository Analyzer"
       link: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
       github: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
-      image:"/images/DhananjayGuptaGitRepositoryAnalyzer.png"
+      image: "/images/DhananjayGuptaGitRepositoryAnalyzer.png"
       about: "Git patch analyzer which does string and syntax level parsing to analyze and generate reports for the repositories written in java. Determines common bugs by analyzing repeated patterns in ‘patches’ to source code."
 
     - title: "DevOps application to automatically building and analyze software applications."
@@ -67,19 +67,12 @@ projects:
       image: "/images/Dhananjay Gupta Android.jpg"
       about: "Android application to manage your favourite songs and related information."  
       
-    - title: "Android Services and Database"
-      link: "https://github.com/DhananjayGupta300/ServicesAndDatabase"
-      github: "https://github.com/DhananjayGupta300/ServicesandDatabase"
-      image: "/images/Dhananjay Gupta Android.jpg"
-      about: "Android application that demostrates use of Android services and using Database"  
-        
     - title: "Phone Dialing Application"
       link: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       image: "/images/Dhananjay Gupta Android.jpg"
-      about: "Simple Android application to demonstrate usage of activites and calling other activities"  
+      about: "Diving into the World of mobile development"  
       
     
    
 ---
-
