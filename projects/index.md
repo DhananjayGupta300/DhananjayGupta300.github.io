@@ -47,7 +47,7 @@ projects:
     - title: "Text-Editor"
       link: "https://github.com/DhananjayGupta300/Text-Editor"
       github: "https://github.com/DhananjayGupta300/Text-Editor"
-      image: ""
+      image: "/images/DhananjayGuptaTextEditor.png"
       about: "A simple text editor made in java. Got my hands dirty with Java for the first time."  
       
     - title: "LuckyUnlucky-A-Multiplayer Game"
