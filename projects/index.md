@@ -59,7 +59,7 @@ projects:
     - title: "CityGuide - Application"
       link: "https://github.com/DhananjayGupta300/CityGuide-Application"
       github: "https://github.com/DhananjayGupta300/CityGuide-Application"
-      image: "/images/Dhananjay Gupta Android.jpg"
+      image: "/images/DhananjayGuptaCityGuide.jpg"
       about: "CityGuide is an android apps that uses fragments and displays top 10 attractions and restaurants in the city of chicago."
 
     - title: "Playlist Manager"
