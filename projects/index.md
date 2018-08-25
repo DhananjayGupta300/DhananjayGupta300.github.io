@@ -53,7 +53,7 @@ projects:
     - title: "LuckyUnlucky-A-Multiplayer Game"
       link: "https://github.com/DhananjayGupta300/LuckyUnlucky-A-MultiPlayer-Game"
       github: "https://github.com/DhananjayGupta300/LuckyUnlucky-A-MultiPlayer-Game"
-      image: "/images/Dhananjay Gupta Android.jpg"
+      image: "/images/Dhananjay%20Gupta%20Lucky%20Unlucky.jpg"
       about: "MultiThreaded two player game. Choose players and bet your luck!"
       
     - title: "CityGuide - Application"
