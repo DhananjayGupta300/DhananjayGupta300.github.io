@@ -16,7 +16,7 @@ projects:
     - title: "Git Repository Analyzer"
       link: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
       github: "https://github.com/DhananjayGupta300/Git-Repository-Analyzer"
-      image: ""
+      image:                 "https://github.com/DhananjayGupta300/DhananjayGupta300.github.io/blob/master/images/DhananjayGuptaGitRepositoryAnalyzer.png"
       about: "Git patch analyzer which does string and syntax level parsing to analyze and generate reports for the repositories written in java. Determines common bugs by analyzing repeated patterns in ‘patches’ to source code."
 
     - title: "DevOps application to automatically building and analyze software applications."
