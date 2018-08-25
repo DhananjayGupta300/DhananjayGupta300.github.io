@@ -65,7 +65,7 @@ projects:
     - title: "Playlist Manager"
       link: "https://github.com/DhananjayGupta300/Playlist-Manager"
       github: "https://github.com/DhananjayGupta300/Playlist-Manager"
-      image: "/images/Dhananjay Gupta Android.jpg"
+      image: "/images/Dhananjay%20Gupta%20PlayList%20Manager.jpg"
       about: "Android application to manage your favourite songs and related information."  
       
     - title: "Phone Dialing Application"
