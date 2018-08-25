@@ -74,9 +74,9 @@ projects:
       image: "/images/Dhananjay%20Gupta%20Phone%20Dialer%20Application.jpg"
       about: "Diving into the World of mobile development"
       
-      - title: "Android Services and Databases"
-      link: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
-      github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
+    - title: "Android Services and Databases"
+      link: "https://github.com/DhananjayGupta300/ServicesAndDatabase"
+      github: "https://github.com/DhananjayGupta300/ServicesAndDatabase"
       image: "/images/Dhananjay%20Gupta%20Phone%20Dialer%20Application.jpg"
       about: "Applications to demostrate the use of Android services and databases"  
       
