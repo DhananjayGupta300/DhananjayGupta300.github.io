@@ -21,6 +21,7 @@ projects:
 
     - title: "DevOps application to automatically building and analyze software applications."
       link: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
+      pdf: "http://dgupta.us/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications/DevOpsWorkFlow.pdf" 	
       github: "https://github.com/DhananjayGupta300/DevOps-Workflow-for-Automatically-Building-and-Analyzing-Software-Applications"
       image: "/images/Dhananjay Gupta DevOps.gif"
       about: "Programmatic simulation to the process by streaming repositories from GitHub, uploading each repository to a local GitLab server and triggering the local Jenkins server which builds, tests and analyses repositories using JaCoCo and Understand. "
