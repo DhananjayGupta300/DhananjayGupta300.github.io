@@ -10,7 +10,7 @@ projects:
       link: "https://github.com/DhananjayGupta300/Empirical-Analysis-of-Jenkins-Pipelines"
       pdf: ""
       github: "https://github.com/DhananjayGupta300/Empirical-Analysis-of-Jenkins-Pipelines"
-      image: ""
+      image: "https://github.com/DhananjayGupta300/DhananjayGupta300.github.io/blob/master/images/DhananjayGuptaEmperical.png"
       about: "Discovered patterns and trends in various repositories and their continuous integration pipelines. Analyzed groovy syntax and extracted stages, shell script commands, build invocations using different build tools."
       
     - title: "Git Repository Analyzer"
