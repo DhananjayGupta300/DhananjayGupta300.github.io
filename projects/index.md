@@ -34,7 +34,7 @@ projects:
     - title: "Aspect Based Sentiment Analysis"
             
     - title: "MSGSP"
-      about: 
+      about: " "
       
     - title: "Applied AI: Expert System in Jess"
       image: "/images/.jpg"
@@ -94,14 +94,3 @@ projects:
     
    
 ---
-
-
-
-
-
-
-
-
-
-
-
