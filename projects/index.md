@@ -44,7 +44,7 @@ projects:
       pdf: ""
       github: ""
       image: ""
-      about:" "
+      about: " "
       
     - title: "Applied AI: Expert System in Jess"
       link: ""
