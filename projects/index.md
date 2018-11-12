@@ -38,7 +38,42 @@ projects:
       github: ""
       image: ""
       about: ""
-    
+      
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: ""
+
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: ""
+
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: ""
+
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: ""
+
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: ""
+      about: ""
+
     - title: "Comparative Study of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3670"
       pdf: "http://dgupta.us/Efficiency-of-Priority-Queues/paper.pdf"
