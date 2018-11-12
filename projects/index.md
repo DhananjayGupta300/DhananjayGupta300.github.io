@@ -65,7 +65,7 @@ projects:
       pdf: ""
       github: ""
       image: ""
-      about: ""
+      about: "Bayesian Network designed using NETICA wherein information of different type of loan applicants and types of loan is asserted by the user of the Bank, and finally concludes whether applicant will be to repay loan or not."
 
     - title: "Applied AI: Decision System"
       link: ""
