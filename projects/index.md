@@ -30,48 +30,6 @@ projects:
       github: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
       image: "/images/Dhananjay Gupta Online Shopping Web Application.jpg"
       about: "This web application displays various categories of products to purchase or look for. It allows users to have their private accounts and put items in a shopping cart."
-      
-    - title: "Aspect Based Sentiment Analysis"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about: ""
-      
-    - title: "MSGSP"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about:" "
-      
-    - title: "Applied AI: Expert System in Jess"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about: "Loan Application Expert system is a rule based expert system designed using JESS wherein information of a loan applicant is asserted by the user of the Bank, and finally concludes whether applicant is eligible to apply for a loan or not. System also provides suggestions to the user of the system to help him/her to make a decision in a very convenient manner. The expert system checks for all the parameters asserted by the user and finally claims the decision depending upon its interpretation and a few important rules set in the bank’s policy."
-      
-    - title: "Applied AI: Fuzzy Expert System"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about: "Loan Application Expert system is a rule based expert system designed using FUZZY JESS wherein information of a loan applicant is asserted by the user of the Bank, and finally concludes whether applicant is eligible to apply for a loan or not. System also provides suggestions to the user of the system to help him/her to make a decision in a very convenient manner. The expert system checks for all the boolean and Fuzzy parameters asserted by the user and finally claims the decision depending upon its interpretation and a few important rules set in the bank’s policy."
-      
-    - title: "Applied AI: Bayesian Network"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about: "Bayesian Network designed using NETICA wherein information of different type of loan applicants and types of loan is asserted by the user of the Bank, and finally concludes whether applicant will be to repay loan or not."
-      
-    - title: "Applied AI: Decision System"
-      link: ""
-      pdf: ""
-      github: ""
-      image: ""
-      about: "Loan Repayment Decision system is a combination of Bayesian Network and influence Diagram designed using NETICA wherein information of different type of loan applicants and types of loan is asserted by the user of the Bank, and finally concludes whether applicant will be to repay loan or not.Accurately predicting whether a loan will be repaid (credit" scoring) is an important task for any bank.Furthermore, the decision regarding the deadline if it needs to be extended or not is made using the utility and decision node in influence diagram. High accuracy benefits both the banks and the loan applicants."  
             
     - title: "Comparative Study of Priority Queue Implementations"
       link: "http://ijariie.com/FormDetails.aspx?MenuScriptId=3670"
@@ -118,3 +76,4 @@ projects:
     
    
 ---
+
