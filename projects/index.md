@@ -114,9 +114,5 @@ projects:
       link: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       image: "/images/Dhananjay%20Gupta%20Phone%20Dialer%20Application.jpg"
-      about: "Diving into the World of mobile development"
-     
-         
-    
-   
----
+      about: "Diving into the World of mobile development."
+  ---
