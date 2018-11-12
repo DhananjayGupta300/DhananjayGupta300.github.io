@@ -3,8 +3,8 @@ layout: project-index
 title: Dhananjay Gupta Projects 
 excerpt: "Dhananjay Gupta Projects: Few Things I can boast about"
 comments: true
-projects:
-    
+projects:    
+
 
     - title: "Empirical Analysis of Jenkins Pipelines"
       link: "https://github.com/DhananjayGupta300/Empirical-Analysis-of-Jenkins-Pipelines"
@@ -115,4 +115,6 @@ projects:
       github: "https://github.com/DhananjayGupta300/PhoneDiallingApplication"
       image: "/images/Dhananjay%20Gupta%20Phone%20Dialer%20Application.jpg"
       about: "Diving into the World of mobile development."
+      
+      
   ---
