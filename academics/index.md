@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Academics"
-modified: 2018-06-06
+modified: 2019-01-01
 excerpt: "Dhananjay Gupta, Master's Student, CS, University of Illinois at Chicago"
 tags: ["academics", "graduation", "UIC", "computer", "Dhananjay Gupta"]
 image:
@@ -40,6 +40,12 @@ Academic Background
 |
 {: rules="groups"}
 
+
+Teachings
+---------
+
+- Graduate Teaching Assistant, Advance Software Engineering (CS-540), University of Illinois at Chicago, Jan 2019 - present
+- Graduate Teaching Assistant, Software Development for Mobile Platforms (CS-478), University of Illinois at Chicago, August 2018 - present 
 
 Major Courses
 -------------
