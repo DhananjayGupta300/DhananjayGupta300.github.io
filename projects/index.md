@@ -58,8 +58,8 @@ projects:
     - title: "Applied AI: Fuzzy Expert System"
       link: ""
       pdf: ""
-      github: "/images/DhananjayGuptaFuzzyExpertSystem.png"
-      image: ""
+      github: ""
+      image: "/images/DhananjayGuptaFuzzyExpertSystem.png"
       about: "Loan Application Expert system is a rule based expert system designed using FUZZY JESS wherein information of a loan applicant is asserted by the user of the Bank, and finally concludes whether applicant is eligible to apply for a loan or not. System also provides suggestions to the user of the system to help him/her to make a decision in a very convenient manner. The expert system checks for all the boolean and Fuzzy parameters asserted by the user and finally claims the decision depending upon its interpretation and a few important rules set in the bank’s policy."
 
     - title: "Applied AI: Bayesian Network"
