@@ -76,7 +76,7 @@ projects:
       image: "/images/DhananjayGuptaDecisionNetwork.png"
       about: "Loan Repayment Decision system is a combination of Bayesian Network and influence Diagram designed using NETICA wherein information of different type of loan applicants and types of loan is asserted by the user of the Bank, and finally concludes whether applicant will be to repay loan or not.Accurately predicting whether a loan will be repaid (credit scoring) is an important task for any bank.Furthermore, the decision regarding the deadline if it needs to be extended or not is made using the utility and decision node in influence diagram. High accuracy benefits both the banks and the loan applicants."
 
-    - title: "Applied AI: Decision System"
+    - title: "Applied AI: KaggleML competition"
       link: ""
       pdf: ""
       github: ""
