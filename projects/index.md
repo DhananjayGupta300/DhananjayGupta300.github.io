@@ -27,26 +27,26 @@ projects:
       image: "/images/Dhananjay Gupta DevOps.gif"
       about: "Programmatic simulation to the process by streaming repositories from GitHub, uploading each repository to a local GitLab server and triggering the local Jenkins server which builds, tests and analyses repositories using JaCoCo and Understand. "
 
+    - title: "Aspect Based Sentiment Analysis"
+      link: ""
+      pdf: ""
+      github: ""
+      image: "/images/DhananjayGuptaAspectBased.jpg"
+      about: "Analyzed a dataset, containing both, an aspect term and the text. Our solution involves understanding various approaches to tackle the task, analyze the text/sentences and finally builds a classifier capable of determining the sentiment of the provided text/sentence. We examine various text cleaning techniques, machine learning models and discuss their respective merits."
+      
     - title: "Online Shopping Web Application"
       link: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
       pdf: ""
       github: "https://github.com/DhananjayGupta300/Online-Shopping-Web-Application"
       image: "/images/Dhananjay Gupta Online Shopping Web Application.jpg"
       about: "This web application displays various categories of products to purchase or look for. It allows users to have their private accounts and put items in a shopping cart."
-      
-    - title: "Aspect Based Sentiment Analysis"
-      link: ""
-      pdf: ""
-      github: ""
-      image: "/images/DhananjayGuptaAspectBased.jpg"
-      about: ""
-      
+    
     - title: "Minimun Support Generalized Sequesntial Pattern Mining Algo"
       link: ""
       pdf: ""
       github: ""
       image: "/images/DhananjayGuptaMSGSP.jpg"
-      about: ""
+      about: "This project is an implementation of MSGSP algorithm for the class of Data Mining and Text Mining, CS-583."
 
     - title: "Appied AI: Expert System"
       link: ""
