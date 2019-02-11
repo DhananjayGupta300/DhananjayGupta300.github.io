@@ -74,7 +74,5 @@ The conclusion is open ended, nobody heretofore, has the perfect answer to all t
 Java 8 will be around for quite a while. <br/><br/> Moving forward to Java 11 or the latest is a better option because rest of the versions are already dead.
 <br/><br/> The main problem is building a roadmap on using Java in production. Jakarta EE eclipse has 894 dependencies, so what about Java 11? A 12-18 months security update overlap is critical for continuity (Java 8 fixed 1926 bugs in seventeen months, 1213 bugs in between the sixth and eighteenth months).<br/> Earlier, the long term supported versions provided stability, security and free updates, all together. The dynamic shift has rendered a problem, no more overlap now! One must pick any two from among stability, security and free. <br/><br/>
 
-Someone must take care of this! Who are they going to be? 
-
-The discussion is thereby **open-ended!** JAVA, on the rocks had indeed given me a buzz! does it ring any bells to you?
+Someone must take care of this! Who are they going to be? The discussion is thereby **open-ended!** JAVA, on the rocks had indeed given me a buzz! does it ring any bells to you?
 
