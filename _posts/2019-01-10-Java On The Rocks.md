@@ -43,7 +43,6 @@ The Java world is in the midst of tectonic shift. With dramatic changes to the p
 
 <figure>
     <img src="/images/DhananjayGuptaJavaVersions.jpg">
-    <figcaption>It is not funny anymore!</figcaption>
 </figure>
 
 Takeaways
@@ -68,7 +67,6 @@ The conclusion is open ended, nobody heretofore, has the perfect answer to all t
 
 <figure>
     <img src="/images/DhananjayGuptaJavaJoke.png">
-    <figcaption>It is not funny anymore!</figcaption>
 </figure>
 
 ### My Opinion 
