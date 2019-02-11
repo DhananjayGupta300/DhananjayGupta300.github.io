@@ -76,5 +76,5 @@ Java 8 will be around for quite a while. <br/><br/> Moving forward to Java 11 or
 
 Someone must take care of this! Who are they going to be? 
 
-The discussion is thereby **open-ended!** JAVA, on the rocks indeed given me a buzz! does it ring any bells to you?
+The discussion is thereby **open-ended!** JAVA, on the rocks had indeed given me a buzz! does it ring any bells to you?
 
