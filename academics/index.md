@@ -45,7 +45,8 @@ Teaching
 --------
 
 - Graduate Teaching Assistant, Advance Software Engineering (CS-540), University of Illinois at Chicago, Jan 2019 - present
-- Graduate Teaching Assistant, Software Development for Mobile Platforms (CS-478), University of Illinois at Chicago, August 2018 - present 
+- Graduate Teaching Assistant, Object Oriented Languages and Environments (CS-474), University of Illinois at Chicago, Jan 2019 - present
+- Graduate Teaching Assistant, Software Development for Mobile Platforms (CS-478), University of Illinois at Chicago, August 2018 - February 2019 
 
 Major Courses
 -------------
