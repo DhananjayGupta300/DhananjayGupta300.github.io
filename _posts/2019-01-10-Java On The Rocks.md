@@ -42,7 +42,7 @@ Ever wanted a new release to be neat? Well, here we got JAVA on the rocks! This 
 The Java world is in the midst of tectonic shift. With dramatic changes to the pace of feature introduction, release lifecycles, compatibility policies, security update policies, and the required pace of adoption in production, all happening at the same time, the world ahead will look nothing like what you may have gotten used to. These are a few takeaways. They will provide a quick overview of what developers and operational people need to know if Java is part of their world.
 
 <figure>
-    <a href="/images/DhananjayGuptaJavaVersions.jpg"></a>
+    <img src="/images/DhananjayGuptaJavaVersions.jpg"></a>
     <figcaption>It is not funny anymore!</figcaption>
 </figure>
 
