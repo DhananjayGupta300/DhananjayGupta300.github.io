@@ -4,7 +4,7 @@ layout: post
 
 title: “JAVA on the Rocks!”
 
-excerpt: "JAVA: Java and Version Advocacy, ever wanted a new release to be neat? Well, here we got JAVA, on the rocks! "
+excerpt: "JAVA: Java and Version Advocacy, wanted a new release to be neat? Well, here we got JAVA, on the rocks! "
 
 modified: 2019-02-10
 
