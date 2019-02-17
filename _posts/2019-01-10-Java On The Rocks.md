@@ -65,8 +65,9 @@ Conclusion
 <br/><br/>
 The conclusion is open ended, nobody heretofore, has the perfect answer to all these questions. 
 
-<figure>
+<figure class="half">
     <img src="/images/DhananjayGuptaJavaJoke.png">
+    <img src="/images/DhananjayGuptaSeriously.gif">
 </figure>
 
 ### My Opinion 
