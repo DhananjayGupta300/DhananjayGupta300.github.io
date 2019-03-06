@@ -44,14 +44,19 @@ Academic Background
 Teaching
 --------
 
-###### Graduate Teaching Assistant, Advance Software Engineering (CS-540), University of Illinois at Chicago, Jan 2019 - present
+### Graduate Teaching Assistant, Advance Software Engineering (CS-540), University of Illinois at Chicago
+
 + Advised and evaluated Graduate students on paper presentations, addressing top three unanswered issues on
 recent topics in advance software engineering including **blockchains** and **mobile operating system security.**
 Responsible for grading the final group projects and reinforcing learning of topics in advance software engineering.
-###### Graduate Teaching Assistant, Object Oriented Languages and Environments (CS-474), University of Illinois at Chicago, Jan 2019 - present
+
+### Graduate Teaching Assistant, Object Oriented Languages and Environments (CS-474), University of Illinois at Chicago
+
 + Tutored Graduate and Undergraduate students to reinforce principles underlying the design and implementation
 of **object-oriented (OO) programming languages** such as **C++, Java, C#, Smalltalk, Python, and Ruby.**
-###### Graduate Teaching Assistant, Software Development for Mobile Platforms (CS-478), University of Illinois at Chicago, August 2018 - February 2019 
+
+### Graduate Teaching Assistant, Software Development for Mobile Platforms (CS-478), University of Illinois at Chicago
+
 + Tutored and assisted Graduate/Under-grad students to help them master Assignments and to reinforce learning
 concepts (**Software Design and Engineering, Android OS, Design Patterns, Java 8, Asynchronous
 programming, Multithreading etc.**) presented by the professor.
@@ -85,4 +90,5 @@ Major Courses
 
 <figure>
     <img src="/images/DhananjayGuptaAlmaMater.jpg">
+    <img caption="Learning and Labor, Alma Mater at UIUC, HackIllinois-2019">
 </figure>
