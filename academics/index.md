@@ -90,5 +90,5 @@ Major Courses
 
 <figure>
     <img src="/images/DhananjayGuptaAlmaMater.jpg">
-    <img cap="Learning and Labor, Alma Mater at UIUC, HackIllinois-2019">
+    <figcaption>Learning and Labor! Alma Mater at UIUC, HackIllinois-2019</figcaption>
 </figure>
